@@ -12,7 +12,7 @@ class searchBar extends React.Component {
           <label>Image Search</label>
           <input 
             value={this.state.term}
-            onChange={e => this.setState({term: e.target.value})} 
+            onChange={e => this.setState({term: e.target.value.toUpperCase() })} 
             className="field" 
             type="text"></input>
         </div>
