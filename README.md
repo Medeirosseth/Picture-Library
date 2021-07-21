@@ -15,7 +15,7 @@
 
 ## Description:memo:
 
-_Web Application that makes an API request for images using an input then returns them in a tiled fashion_
+_Web Application that makes an API request for images using an input then returns them using the grid CSS system_
 
 <details>
   <summary>Setup/installation Requirements:open_file_folder:</summary>
