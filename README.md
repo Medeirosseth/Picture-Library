@@ -17,6 +17,7 @@
 
 _Web Application that makes an API request for images using an input then returns them using the grid CSS system_
 
+![example of search](Picture-Viewer.png)
 <details>
   <summary>Setup/installation Requirements:open_file_folder:</summary>
   
