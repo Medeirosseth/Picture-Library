@@ -1,5 +1,3 @@
-# _{Application Name}_
-
 #### Picture Library
 
 #### By _**:neckbeard:Seth Medeiros**_
